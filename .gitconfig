@@ -1,0 +1,6 @@
+[core]
+	excludesfile = /home/nick/.gitignore_global
+	editor = vim
+[user]
+	name = Jiang Dongming
+	email = jiangdongming@91waijiao.com
