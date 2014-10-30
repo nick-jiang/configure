@@ -7,3 +7,6 @@ configure
 | Phone     |   $12 |
 | Pipe      |    $1 |
 foo_bar_baz
+
+
+this is ~~good~~ bad
