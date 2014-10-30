@@ -1,4 +1,4 @@
 configure
 =========
 
-http://fenc
+http://fenc.co
